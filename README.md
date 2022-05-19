@@ -23,3 +23,4 @@
 <p><br></p>
 <h2>Version</h2>
 <p>Current version is 1.0</p>
+.
